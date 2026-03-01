@@ -1,0 +1,4 @@
+python -m venv ale_env
+ale_env\Scripts\activate
+
+pip install gymnasium[atari]

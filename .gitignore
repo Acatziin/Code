@@ -1,0 +1,16 @@
+# Carpetas 
+Bootcamp_BasicToExpertFromScratch/
+Fuzzy/
+Glassdoor/
+Introducción_a_Python/
+Macrotrends/
+Papers/
+Python_data_science_big_data_esencial/
+Quicks/
+Revenues_Search/
+WSJ/
+
+# Carpetas de configuración de VS Code
+.vscode/
+.venv/
+.pytest_cache
