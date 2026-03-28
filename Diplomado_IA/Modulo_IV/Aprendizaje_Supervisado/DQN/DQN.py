@@ -10,6 +10,7 @@ import torch.nn as nn
 import torch.optim as optim
 
 import gymnasium as gym
+import ale_py
 
 cfg = Config()
 class ReplayBuffer:
@@ -50,7 +51,8 @@ def train_dqn():
     print(f"Usando device: {device}")
 
     # render_mode="human" abre ventana (pyglet) y se actualiza en cada step
-    env = gym.make(cfg.env_id, render_mode="human")
+    env = gym.make("ALE/Enduro-v5", render_mode="human")
+    #env = gym.make(cfg.env_id, render_mode="human")
     obs_dim = env.observation_space.shape[0]
     n_actions = env.action_space.n
 
