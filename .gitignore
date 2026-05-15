@@ -10,3 +10,6 @@ Diplomado_IA/Módulo_VI/Stanford_Dogs/
 .venv/
 .tf-directml/
 .venv_3.13/
+
+# Archivos de configuración de Windows
+desktop.ini
