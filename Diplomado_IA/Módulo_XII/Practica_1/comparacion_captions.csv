@@ -1,0 +1,16 @@
+imagen,caption,mejor_caption,probabilidad_maxima
+imagenes_practica/perro_parque.jpg,a woman standing next to a dog on a lawn ,,
+imagenes_practica/aula_estudiantes.jpg,a large group of people sitting at a table ,,
+imagenes_practica/ciudad_noche.jpg,a city street filled with lots of traffic at night ,,
+imagenes_practica/comida_restaurante.jpg,a table with plates of food on it ,,
+imagenes_practica/persona_computadora.jpg,a man sitting on a couch using a laptop computer ,,
+imagenes_practica/perro_parque.jpg,a woman walking a dog in a park,,
+imagenes_practica/aula_estudiantes.jpg,students in a classroom,,
+imagenes_practica/ciudad_noche.jpg,bangkok cityscapeat night,,
+imagenes_practica/comida_restaurante.jpg,people eating at a restaurant,,
+imagenes_practica/persona_computadora.jpg,man sitting on a couch using a laptop,,
+imagenes_practica/perro_parque.jpg,,A dog running in a park,0.9998363256454468
+imagenes_practica/aula_estudiantes.jpg,,A group of students in a classroom,0.9999418258666992
+imagenes_practica/ciudad_noche.jpg,,A city skyline at night,0.9999899864196777
+imagenes_practica/comida_restaurante.jpg,,A plate of food on a restaurant table,0.9999746084213257
+imagenes_practica/persona_computadora.jpg,,A person working on a computer,0.9985793828964233
